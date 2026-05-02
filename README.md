@@ -41,3 +41,28 @@ Project Structure
 *   `/components`: Contains modular UI components like `Navbar.tsx`, `Hero.tsx`, and `Showcase.tsx`.
 *   `/public`: Static assets including optimized images used in the clone.
 *   `/app`: Main application logic and layout using the Next.js App Router.
+
+*   Olive App Landing Page Clone
+
+This project is a high-fidelity, pixel-perfect frontend clone of the Olive landing page, developed as part of a technical assessment for **Praxso**.
+
+## 🚀 Tech Stack
+
+*   **Framework:** Next.js (App Router)
+*   **Styling:** Tailwind CSS
+*   **Language:** TypeScript
+*   **Animations:** Framer Motion
+
+## ✨ Features
+
+*   **Responsive Design:** Fully optimized for different screen sizes.
+*   **Custom Components:** Reusable Navbar, Hero, and Showcase sections.
+*   **Modern UI:** Implementation of Tailwind v4 theme configurations for consistent colors and fonts.
+
+## 🛠️ Getting Started
+
+First, clone the repository and install the dependencies:
+```bash
+git clone [https://github.com/varalakshmikr24/olive-frontend-assessment](https://github.com/varalakshmikr24/olive-frontend-assessment)
+cd olive-clone
+npm install
